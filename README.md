@@ -1,4 +1,4 @@
-# DM Chat Log ETL Pipeline
+# Discord Chat Log ETL Pipeline
 
 A small data engineering project that takes a raw Discord DM export and turns it into a clean, normalized, queryable relational database.
 

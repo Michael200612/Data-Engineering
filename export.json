@@ -1,0 +1,442 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1534830559015079946",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "Michael",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-08-07T10:53:05.2138629+02:00",
+  "messages": [
+    {
+      "id": "1534830559589826610",
+      "type": "67",
+      "timestamp": "2026-08-06T09:48:41.179+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1426241228403380247",
+        "name": "michael.763",
+        "discriminator": "0000",
+        "nickname": "Michael",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1534830568032829470",
+      "type": "Default",
+      "timestamp": "2026-08-06T09:48:43.192+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1426241228403380247",
+        "name": "michael.763",
+        "discriminator": "0000",
+        "nickname": "Michael",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "749054660769218631",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/749054660769218631.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1534830602216411147",
+      "type": "Default",
+      "timestamp": "2026-08-06T09:48:51.342+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello World!",
+      "author": {
+        "id": "1426241228403380247",
+        "name": "michael.763",
+        "discriminator": "0000",
+        "nickname": "Michael",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1534830718021009479",
+      "type": "Default",
+      "timestamp": "2026-08-06T09:49:18.952+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello!",
+      "author": {
+        "id": "1534828993906212894",
+        "name": "user012763",
+        "discriminator": "0000",
+        "nickname": "user",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1535204467329339403",
+      "type": "Default",
+      "timestamp": "2026-08-07T10:34:27.731+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is an image",
+      "author": {
+        "id": "1534828993906212894",
+        "name": "user012763",
+        "discriminator": "0000",
+        "nickname": "user",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1535204467035611268",
+          "url": "https://cdn.discordapp.com/attachments/1534830559015079946/1535204467035611268/image.jpeg?ex=6a76ea13&is=6a759893&hm=16801bc4fad2551695f7b4b257aaaa74a96cb931cf5aa99ccbc85ad877dd8dd9&",
+          "fileName": "image.jpeg",
+          "fileSizeBytes": 28158
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1535204639920750593",
+      "type": "Default",
+      "timestamp": "2026-08-07T10:35:08.88+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and this is a link https://youtu.be/w3ea4fKiS2g",
+      "author": {
+        "id": "1534828993906212894",
+        "name": "user012763",
+        "discriminator": "0000",
+        "nickname": "user",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn Basic SQL in 15 Minutes (PART 3/3) | SQL Functions Tutorial |...",
+          "url": "https://www.youtube.com/watch?v=w3ea4fKiS2g",
+          "timestamp": null,
+          "description": "\uD83D\uDEA8 WANT MORE? GET MY FULL SQL COURSE HERE:\nhttps://geni.us/lbia_sql\n\nWATCH PARTS 1 & 2 HERE:\nPart 1 – https://youtu.be/kbKty5ZVKMY\nPart 2 – https://youtu.be/gm6tNK_iOHs\n\n\uD83C\uDFA5 NEXT STEP: BUILD A COMPLETE SQL PORTFOLIO PROJECT\nhttps://youtu.be/0rB_memC-dA\n\n\uD83D\uDCC4 GET THE SQL FUNCTIONS CHEAT SHEET:\nhttps://geni.us/sql3cheatsheet\n\nIn this third ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Adam Finer - Learn BI",
+            "url": "https://www.youtube.com/channel/UC1bhYMFuSFREIQ5bgclLDkQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/i87gh01qohBL3n0UZVnKVuYu77NjTcTSSvxWvW0H0Jc/https/i.ytimg.com/vi/w3ea4fKiS2g/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/w3ea4fKiS2g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/w3ea4fKiS2g",
+            "canonicalUrl": "https://www.youtube.com/embed/w3ea4fKiS2g",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "\uD83D\uDEA8",
+              "code": "rotating_light",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f6a8.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFA5",
+              "code": "movie_camera",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3a5.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCC4",
+              "code": "page_facing_up",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4c4.svg"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1535204710720737281",
+      "type": "Default",
+      "timestamp": "2026-08-07T10:35:25.76+02:00",
+      "timestampEdited": "2026-08-07T10:35:33.817+02:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is a message that was edited!",
+      "author": {
+        "id": "1534828993906212894",
+        "name": "user012763",
+        "discriminator": "0000",
+        "nickname": "user",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1535204817490804808",
+      "type": "Default",
+      "timestamp": "2026-08-07T10:35:51.216+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is a message that has a reply",
+      "author": {
+        "id": "1534828993906212894",
+        "name": "user012763",
+        "discriminator": "0000",
+        "nickname": "user",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1535204945131737169",
+      "type": "Reply",
+      "timestamp": "2026-08-07T10:36:21.648+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is a reply",
+      "author": {
+        "id": "1426241228403380247",
+        "name": "michael.763",
+        "discriminator": "0000",
+        "nickname": "Michael",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1534828993906212894",
+          "name": "user012763",
+          "discriminator": "0000",
+          "nickname": "user",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1535204817490804808",
+        "channelId": "1534830559015079946",
+        "guildId": null
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1535205016820908144",
+      "type": "Default",
+      "timestamp": "2026-08-07T10:36:38.74+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is a message with a reaction",
+      "author": {
+        "id": "1534828993906212894",
+        "name": "user012763",
+        "discriminator": "0000",
+        "nickname": "user",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCBB",
+            "code": "computer",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4bb.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1426241228403380247",
+              "name": "michael.763",
+              "discriminator": "0000",
+              "nickname": "Michael",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1535205257477357680",
+      "type": "Default",
+      "timestamp": "2026-08-07T10:37:36.117+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "||This is a message with a spoiler||",
+      "author": {
+        "id": "1426241228403380247",
+        "name": "michael.763",
+        "discriminator": "0000",
+        "nickname": "Michael",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1535205574114017300",
+      "type": "Default",
+      "timestamp": "2026-08-07T10:38:51.609+02:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# This is a message with a big header\n## This is a message with a medium header\n### This is a message with a small header\nThis is a message with **bold**\nThis is a message with *italics*\nThis is a message with __underline__\nThis is a message with ~~strikethrough~~\nThis is a message with > a quote block\nThis is a message with `inline code`\nThis is a message with [a hyperlink](https://discord.com)\n-# This is a message with subtext\n\nThis is a message with a code block:\n```text\nCode block content here\n```",
+      "author": {
+        "id": "1426241228403380247",
+        "name": "michael.763",
+        "discriminator": "0000",
+        "nickname": "Michael",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Discord - Group Chat That’s All Fun & Games",
+          "url": "https://discord.com/",
+          "timestamp": null,
+          "description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+          "color": "#161CBB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/geFbc8OQDIwJV_CxP_75bUhImtkBwcm5q7CIv95jCcA/https/cdn.prod.website-files.com/6257adef93867e50d84d30e2/665643dd8c7ac752237b5cef_Discord-OG-1200x630.jpg",
+            "canonicalUrl": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/665643dd8c7ac752237b5cef_Discord-OG-1200x630.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 12
+}
