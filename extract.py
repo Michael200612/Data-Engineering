@@ -10,4 +10,9 @@ def extract_json(path:str) -> pd.DataFrame:
 
     
 if __name__ == "__main__":
-    extract_json("export.json")
+    df = extract_json("export.json")
+    print(df.shape)          # how many messages, how many columns
+    print(df.columns)        # what fields exist
+    print(df.dtypes)         # what pandas thinks each column's type is
+    print(df.head(3))        # eyeball a few rows
+    print(df.isnull().sum())
