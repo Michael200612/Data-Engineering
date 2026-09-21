@@ -11,8 +11,12 @@ def extract_json(path:str) -> pd.DataFrame:
     
 if __name__ == "__main__":
     df = extract_json("export.json")
-    print(df.shape)          
-    print(df.columns)        
-    print(df.dtypes)         
-    print(df.head(3))        
-    print(df.isnull().sum())
+    df = strip_non_default_messages(df)
+
+    users_df = build_users_table(df)   
+    attachments_df = extract_attachments(df) 
+
+    df = select_relevant_columns(df)
+    df = normalize_timestamps(df)
+    df = flag_edited(df)
+    df = rename_reply_column(df)
